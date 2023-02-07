@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prayogatriady
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Data Science, Math and Stats for Machine Learning
+- 👀 I’m interested in Backend and Data Science
+- 🌱 I’m currently active learning Golang for Backend Developer and casually learning Python for Data Science
 - 📫 How to reach me prayogatriady.work@gmail.com
 
 <!---
